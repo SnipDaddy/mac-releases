@@ -10,5 +10,13 @@
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/SnipDaddy/mac-releases/releases/download/prod/PromptBox.Installer.dmg" length="5106073" type="application/octet-stream" sparkle:edSignature="zFDZ16E5lgiNDaa/yLtmXOAX7teTrdoKRjHwbKdakmk7axJ9SzMqt6e0464mOER9F+RGFcloeMAhgpoZ1er2Cg=="/>
         </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 06 Apr 2025 23:43:49 -0600</pubDate>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SnipDaddy/mac-releases/releases/download/prod/PromptBox.Installer.dmg" length="6011289" type="application/octet-stream" sparkle:edSignature="H5HxbdYKLtKKN+KEQRtX+R4U1KcGanDMX44riXTxLsATq/mwHdDhFUDka3kSOzOP2D01/vJRxzhm0S7VmoDjBQ=="/>
+        </item>
     </channel>
 </rss>
