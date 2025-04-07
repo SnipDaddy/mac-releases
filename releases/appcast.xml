@@ -16,7 +16,7 @@
             <sparkle:version>1.0.0</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SnipDaddy/mac-releases/releases/download/prod/PromptBox.Installer.dmg" length="6011289" type="application/octet-stream" sparkle:edSignature="H5HxbdYKLtKKN+KEQRtX+R4U1KcGanDMX44riXTxLsATq/mwHdDhFUDka3kSOzOP2D01/vJRxzhm0S7VmoDjBQ=="/>
+            <enclosure url="https://github.com/SnipDaddy/mac-releases/releases/download/v1.0.0/PromptBox.Installer.dmg" length="6011289" type="application/octet-stream" sparkle:edSignature="H5HxbdYKLtKKN+KEQRtX+R4U1KcGanDMX44riXTxLsATq/mwHdDhFUDka3kSOzOP2D01/vJRxzhm0S7VmoDjBQ=="/>
         </item>
     </channel>
 </rss>
