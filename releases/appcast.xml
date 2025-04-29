@@ -3,6 +3,14 @@
     <channel>
         <title>PromptBox</title>
         <item>
+            <title>1.0.7</title>
+            <pubDate>Mon, 28 Apr 2025 22:01:20 -0600</pubDate>
+            <sparkle:version>1.0.7</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/SnipDaddy/mac-releases/refs/heads/main/releases/PromptBox%201.0.7.dmg" length="7563498" type="application/octet-stream" sparkle:edSignature="0qfTjQbwDdcJPe/t8JqHhTf5ZWKC1eNE2ZI+dDPJ99juCADMDzRI0bfhhp7mcAZxnKGVZCwrTtCXvAOblfX2DQ=="/>
+        </item>
+        <item>
             <title>1.0.6</title>
             <pubDate>Mon, 21 Apr 2025 20:18:57 -0600</pubDate>
             <sparkle:version>1.0.6</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/SnipDaddy/mac-releases/refs/heads/main/releases/PromptBox%201.0.5.dmg" length="7530026" type="application/octet-stream" sparkle:edSignature="JZRY6GfR/5DIaliPxkhy6FY2uMCrHm8A5FXWUzIm9h579htOxkMjlV63874xU1eosVemkWe6l/d8CMpbGKuYBQ=="/>
-        </item>
-        <item>
-            <title>1.0.4</title>
-            <pubDate>Sat, 19 Apr 2025 15:26:57 -0600</pubDate>
-            <sparkle:version>1.0.4</sparkle:version>
-            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/SnipDaddy/mac-releases/refs/heads/main/releases/PromptBox%201.0.4.dmg" length="7530026" type="application/octet-stream" sparkle:edSignature="ff9I0eDfKkRPwKWNLx/yUvvR0Ikyhrv20ccB8H3iDYv0qyK4qUmpRucWnu5e3fd0K0gXHhV+QkeVtLNSpUhjAA=="/>
         </item>
     </channel>
 </rss>
